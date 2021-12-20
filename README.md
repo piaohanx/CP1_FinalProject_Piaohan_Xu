@@ -1,42 +1,24 @@
-# CP1_Final Project Template
+# ReadMe
 
-Below a suggested layoutout for the README file
+
 
 ---
 
 # Your Title goes here
 
 This is the final project on my class Computational Physics.
-I want to do this, and this is how I achieve it.
+I investigated the GHZ state using IBM quantum computer. This mainly helps me in understanding  the physics of quantum entanglement.
 
-## Project Structure
+## Youtube video
 
-To read about and follow my project I suggest reading the documentation including all references *link here* first.
-Please note the code is under the following license *link here* and the documentation under this license  *link here*.
-The main Jupyter notebook which does this can be found *link here*.
-The necessary utility functions written in *my favorite programming language* are in the *link here* UtilityFunctions folder.
-To run the Jupyter notebook I suggest using the docker image *link here*.
-There is also a YouTube video *link here*.
+The link to my Youtube Video: 
+https://www.youtube.com/watch?v=FYb8LfBDKWo
+
+The video is slightly differently from my report, which focus more on the entanglement between three qubits, namely the GHZ state. And I tried to explain the idea of entanglement with three particles in my report. It is a little confusing I believe, so in the video, I only used two particle  entanglement (Bell State) as my example.
+
+The Script for the video is attached, simply named “script.pdf”.
+
+The report talks about the realization of a GHZ state on IBM quantum computer, the video did not go into that, for simplicity I only showed how to achieve the Bell State in the video.
 
 
-## Setup
-
-The following commands get you started:
-
-``` zsh
-docker run *mydocker command*
-```
-
-Then do this and that to run the Jupyter notebook in your browser.
-
-To run an optimized version of the algorithm I implemented you have to use `ctypes` and compile the files *link here* the following way:
-
-``` zsh
-docker run bash
-g++ compile my code
-```
-
-## Participation
-
-If you want to participate feel free open an issue with the appropiate labels and/or fork my project and create a pull request against the *dev* branch.
 
