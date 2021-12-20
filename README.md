@@ -4,8 +4,6 @@
 
 ---
 
-# Your Title goes here
-
 This is the final project on my class Computational Physics.
 I investigated the GHZ state using IBM quantum computer. This mainly helps me in understanding  the physics of quantum entanglement.
 
